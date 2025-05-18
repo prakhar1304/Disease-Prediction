@@ -71,3 +71,10 @@ npm run dev
 **GitHub:** [prakhar1304](https://github.com/prakhar1304)
 **Email:** [prakhar1304@gmail.com](mailto:prakhar1304@gmail.com)
 
+---------------
+## UI
+![image](https://github.com/user-attachments/assets/d980319a-c9d4-4c48-8ea4-bb534a4388f5)
+![image](https://github.com/user-attachments/assets/b20c3434-4a6d-4ae3-9fe1-07d3f5ea4940)
+
+
+
